@@ -1,0 +1,5 @@
+# Étude des glaciers des Alpes suisses et de l'apparition d’une considération écologique dans les journaux historiques
+
+Les Alpes suisses, véritables joyaux naturels, abritent une multitude de glaciers qui ont sculpté le paysage montagneux au fil des millénaires, jouant ainsi un rôle crucial dans l'équilibre environnemental régional. Ce projet de semestre de Bachelor se donne pour objectif d'explorer minutieusement ces glaciers, tout en se penchant sur l'évolution de la perception écologique au fil du temps, telle qu'exprimée dans les journaux historiques.
+
+Dans le cadre de cette étude approfondie, nous plongerons dans la complexité des glaciers alpins, véritables sentinelles du changement climatique. Leurs mouvements imperceptibles et leurs formes majestueuses nous offrent un regard privilégié sur l'\textbf{évolution climatique et ses conséquences directes} sur ces étendues glacées colossales. En parallèle, nous examinerons la manière dont les considérations écologiques ont émergé et évolué dans les \textbf{journaux historiques}, reflétant ainsi la prise de conscience croissante de la fragilité de notre environnement.
